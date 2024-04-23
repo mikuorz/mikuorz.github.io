@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Animelife",
+    "title": "Animelife • All posts by \"动画\" tag",
     "description": "",
     "home_page_url": "https://mikuorz.github.io",
     "items": [
@@ -26,14 +26,6 @@
                 "动画产业",
                 "动画授权"
             ]
-        },
-        {
-            "id": "https://mikuorz.github.io/posts/1322/",
-            "url": "https://mikuorz.github.io/posts/1322/",
-            "title": "大小姐看这里！！！",
-            "date_published": "2024-01-08T16:00:00.000Z",
-            "content_html": "<p>大小姐啊大小姐！你怎么能如此堕落！先前订下的学习计划你都忘了吗？<br>子曰：“吾日三省吾身。”……不能再这样下去了！</p>\n",
-            "tags": []
         },
         {
             "id": "https://mikuorz.github.io/posts/27044/",
