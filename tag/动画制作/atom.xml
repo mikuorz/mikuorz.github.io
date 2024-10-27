@@ -3,7 +3,7 @@
     <id>https://mikuorz.github.io</id>
     <title>Animelife • Posts by &#34;动画制作&#34; tag</title>
     <link href="https://mikuorz.github.io" />
-    <updated>2023-12-02T18:07:32.543Z</updated>
+    <updated>2023-12-03T16:00:00.000Z</updated>
     <category term="动画" />
     <category term="动画制作" />
     <category term="3DCG" />
@@ -11,10 +11,14 @@
     <category term="动画产业" />
     <category term="动画授权" />
     <category term="观后感" />
+    <category term="动画讨论" />
+    <category term="动画产业，动画消费" />
+    <category term="动画工具" />
+    <category term="书签" />
     <entry>
-        <id>https://mikuorz.github.io/2023/12/03/BanG%20Dream!%20It%E2%80%99s%20MyGO!!!!!!%20%E4%B8%93%E5%9C%BA%203DCG/</id>
+        <id>https://mikuorz.github.io/posts/27044/</id>
         <title>BanG Dream! It’s MyGO!!!!!! 专场 3DCG</title>
-        <link rel="alternate" href="https://mikuorz.github.io/2023/12/03/BanG%20Dream!%20It%E2%80%99s%20MyGO!!!!!!%20%E4%B8%93%E5%9C%BA%203DCG/"/>
+        <link rel="alternate" href="https://mikuorz.github.io/posts/27044/"/>
         <content type="html">&lt;h1 id=&#34;CG动画的提升需要做什么？&#34;&gt;&lt;a href=&#34;#CG动画的提升需要做什么？&#34; class=&#34;headerlink&#34; title=&#34;CG动画的提升需要做什么？&#34;&gt;&lt;/a&gt;CG动画的提升需要做什么？&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;第一点是衣服等的素材感&lt;/strong&gt;&lt;br&gt;皮革和涤纶材质光泽的差别，与棉质和化学纤维的色差，还有蕾丝和透明面料等。&lt;br&gt;将手绘绝对无法表现出来的素材感的差别通过颜色和模型的组合来表现出来非常重要。&lt;br&gt;&lt;img src=&#34;https://s2.loli.net/2023/12/03/uhATjMECZcqfgwU.png&#34; alt=&#34;1.png&#34;&gt;&lt;br&gt;以及坐姿时的裙子形状和素材的伸缩性的差别等细节设定（对动画来说 3DCG会有一些看起来违和的地方，想要让观众集中注意看故事，就需要尽可能地减少这些奇怪的地方）在这些方面表现出真实感的演出也非常重要。&lt;br&gt;&lt;img src=&#34;https://s2.loli.net/2023/12/03/VEZ8nw1SuTOjtxU.png&#34; alt=&#34;2.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;第二点便是光影的演出&lt;/strong&gt;&lt;br&gt;这是演出中非常重要的一个要素，通过三渲二来对角色进行变形容易产生奇怪的阴影。之前的CG动画种对这一点没有过多追求，但这次为了达到演出效果，准备了能够设定整个场景的光源以及角色颜色的重要武器&lt;br&gt;&lt;img src=&#34;https://s2.loli.net/2023/12/03/thcLDoqiYNESgJU.png&#34; alt=&#34;3.png&#34;&gt;&lt;em&gt;（在图中给出指示）&lt;/em&gt;&lt;br&gt;&lt;img src=&#34;https://s2.loli.net/2023/12/03/3r1TeaNmYv5xsPg.png&#34; alt=&#34;4.png&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://s2.loli.net/2023/12/03/WXi6QKewsymZRdI.png&#34; alt=&#34;5.png&#34;&gt;&lt;em&gt;（制作案例）&lt;/em&gt;&lt;br&gt;&lt;img src=&#34;https://s2.loli.net/2023/12/03/tFVOulm3Cs9RNiW.png&#34; alt=&#34;6.png&#34;&gt;&lt;em&gt;（向动画师说明这里应该怎么做的资料）&lt;/em&gt;&lt;/p&gt;
 &lt;h1 id=&#34;演出家的区分&#34;&gt;&lt;a href=&#34;#演出家的区分&#34; class=&#34;headerlink&#34; title=&#34;演出家的区分&#34;&gt;&lt;/a&gt;演出家的区分&lt;/h1&gt;&lt;p&gt;1.检查动画&lt;br&gt;2.绘制分镜（动画师不需要绘制分镜，成为演出家后才绘制）&lt;br&gt;大多使用CG分镜，使用MAX来制作分镜，站立位置与摄像机位置，后续也会继承用在制作上。这样做的原因是把分镜绘制外包出去会出现分镜没有及时完成的情况，以及价格存在差异。&lt;br&gt;实际编集后的视频（视频21：00位置）&lt;br&gt;编集已经做了一些表情，且全部配音由一位女性编集师完成（ps:各位编集师大多会自己来配上大叔或者女孩子的声音，而且和一般的声优一周参加数次配音不同，而是配过一整本剧本甚至是很多部作品，差不多相当于业界7，8年经验者的水平）&lt;/p&gt;
@@ -22,17 +26,18 @@
 &lt;h1 id=&#34;CG分镜的顺序-300个镜头花费大概一个月的时间&#34;&gt;&lt;a href=&#34;#CG分镜的顺序-300个镜头花费大概一个月的时间&#34; class=&#34;headerlink&#34; title=&#34;CG分镜的顺序(300个镜头花费大概一个月的时间)&#34;&gt;&lt;/a&gt;CG分镜的顺序(300个镜头花费大概一个月的时间)&lt;/h1&gt;&lt;p&gt;1.分割剧本镜头&lt;br&gt;剧本本身是有文字的指导的&lt;br&gt;&lt;img src=&#34;https://s2.loli.net/2023/12/03/TLKyUQOIeihwDNc.png&#34; alt=&#34;7.png&#34;&gt;&lt;br&gt;红字写的是和监督在分镜研讨时的笔记，蓝线是设想的镜头分割&lt;br&gt;2.设置摄像机&amp;amp;截图&lt;br&gt;3.在storyboardPRO里排列好观看，使用storyboardPRO，截图配置好需要的枚数放在时间轴上，然后进行检查修改&lt;br&gt;4.加上台词&amp;#x2F;注释&lt;br&gt;5.确认尺（动画中一个镜头或场景的持续时间）  &lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=JbcJjroa0Gg&#34; title=&#34;【サンジゲン】BanG Dream! It’s MyGO!!!!!セッション　3DCGアニメーターが演出家になるには【あにつく2023】&#34;&gt;【サンジゲン】BanG Dream! It’s MyGO!!!!!セッション　3DCGアニメーターが演出家になるには【あにつく2023】&lt;/a&gt;, あにつく&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV1P34y1c7De/&#34; title=&#34;【全场中字】MyGO动画制作的幕后 BanG Dream! It’s MyGO!!!!!セッション&#34;&gt;【全场中字】MyGO动画制作的幕后 BanG Dream! It’s MyGO!!!!!セッション&lt;/a&gt;, Mikoi_&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://count.getloli.com/@Mikuorz-27044?theme=rule34&#34; alt=&#34;:name&#34;&gt;&lt;/p&gt;
 </content>
         <category term="动画" />
         <category term="动画制作" />
         <category term="3DCG" />
         <category term="It’s MyGO" />
-        <updated>2023-12-02T18:07:32.543Z</updated>
+        <updated>2023-12-03T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://mikuorz.github.io/2023/11/08/%E4%BB%A5%E5%AE%9E%E9%99%85%E4%BE%8B%E5%AD%90%E8%A7%A3%E9%87%8A%E5%8A%A8%E7%94%BB%E8%81%8C%E4%BD%8D%E5%85%B7%E4%BD%93%E5%B7%A5%E4%BD%9C/</id>
+        <id>https://mikuorz.github.io/posts/4553/</id>
         <title>以实际例子解释动画制作</title>
-        <link rel="alternate" href="https://mikuorz.github.io/2023/11/08/%E4%BB%A5%E5%AE%9E%E9%99%85%E4%BE%8B%E5%AD%90%E8%A7%A3%E9%87%8A%E5%8A%A8%E7%94%BB%E8%81%8C%E4%BD%8D%E5%85%B7%E4%BD%93%E5%B7%A5%E4%BD%9C/"/>
+        <link rel="alternate" href="https://mikuorz.github.io/posts/4553/"/>
         <content type="html">&lt;h2 id=&#34;魔法少女小圆op字幕&#34;&gt;&lt;a href=&#34;#魔法少女小圆op字幕&#34; class=&#34;headerlink&#34; title=&#34;魔法少女小圆op字幕&#34;&gt;&lt;/a&gt;魔法少女小圆op字幕&lt;/h2&gt;&lt;p&gt;原作：Magica Quartet（新房昭之、虚渊玄、苍树梅、SHAFT）&lt;br&gt;企划：夏目公一朗、孝寿尚志、峰岸卓生、でじたろう、太布尚弘、久保田光俊、竹田青滋&lt;br&gt;监督：新房昭之&lt;br&gt;系列监督：宫本幸裕&lt;br&gt;系列构成、剧本：虚渊玄（Nitro+）&lt;br&gt;角色原案：苍树梅&lt;br&gt;人物设计：岸田隆宏&lt;br&gt;总作画监督：谷口淳一郎、高桥美香&lt;br&gt;动作监督：阿部望、神谷智大&lt;br&gt;异空间设计：剧团狗咖哩&lt;br&gt;构图设计：牧孝雄&lt;br&gt;美术监督：稻叶邦彦、金子雄司、内藤健&lt;br&gt;美术设定：大原盛仁&lt;br&gt;色彩设计：日比野仁、泷泽泉&lt;br&gt;视觉效果：酒井基&lt;br&gt;摄影监督：江藤慎一郎&lt;br&gt;编集：松原理惠&lt;br&gt;音响监督：鹤冈阳太&lt;br&gt;音响制作：乐音舍&lt;br&gt;音乐：梶浦由记（SME Records）&lt;br&gt;音乐制作：Aniplex&lt;br&gt;制片人：岩上敦宏、加藤昱夫、细川修、土居由直、金庭こず惠、丸山博雄&lt;br&gt;动画制片人：岩城忠雄&lt;br&gt;动画制作：SHAFT&lt;br&gt;制作：Madoka Partners（Aniplex、芳文社、博报堂DY媒体伙伴、Nitro+、Movic、SHAFT）、每日放送  &lt;/p&gt;
 &lt;p&gt;一个完整的OP字幕大致是这样……&lt;/p&gt;
 &lt;hr&gt;
@@ -64,16 +69,17 @@
 &lt;p&gt;首先是Aniplex的制片人 岩上敦宏 在之前的合作中听到新房监督说还想拍魔法少女题材，&lt;br&gt;于是就想做一部片子，然后突发奇想如果虚渊来写脚本配上苍树的人设会怎样，&lt;br&gt;向监督提案，监督觉得不错，那就做吧，&lt;br&gt;然后写好企划书，征得Aniplex社长的同意之后，&lt;br&gt;然后就可以去找虚渊所属的N+的制片人，以及苍树所属的芳文社的相关制片人进行商谈，&lt;br&gt;N+和芳文社的相关制片人也要去征得他们社长的意见，在意见统一之后，有了大致方向后，&lt;br&gt;就等虚渊先完成脚本大纲，在虚渊完成脚本大纲后，给这些制片人过目后，&lt;br&gt;觉得有点赚头，可以搞一部这部片子，然后就可以确定下来这个企划了。&lt;br&gt;然后Aniplex就要去找其他投资商，包括出版发行商，广告商，MBS的深夜档节目制片人&lt;br&gt;这些公司也要派出制片人一起来共事，成立制作委员会，一起掏腰包出钱做片。&lt;br&gt;然后就可以开始动画制作了。&lt;br&gt;脚本和原案首先要确立，确立通过后监督和动画制片人就要开始召集工作人员。&lt;br&gt;人物设计给谁做比较合适，音乐给谁做比较合适，&lt;br&gt;从这个公司弄来几个作画监督，从那个公司搞来个动作监督，&lt;br&gt;从这个公司聘请几个原画，给哪些公司外包背景作画，&lt;br&gt;这一话外包给哪个公司，那一话让哪个工作室来协力一下，&lt;br&gt;基本上都是从监督和动画制片人的关系网里找。  &lt;/p&gt;
 &lt;p&gt;所以原创动画制作程序非常繁琐，风险很高，企划通过率低。&lt;br&gt;改编的话只要投资方想做，版权方同意马上就定案了。&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&amp;tid=675176&amp;page=1#pid14653317&#34;&gt;以魔法少女小圆为例，科普日本动画STAFF的分工明细&lt;/a&gt;, shaft, 2011-5-1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://count.getloli.com/@Mikuorz-4553?theme=rule34&#34; alt=&#34;:name&#34;&gt;&lt;/p&gt;
 </content>
         <category term="动画" />
         <category term="动画制作" />
         <category term="动画产业" />
-        <updated>2023-11-08T11:10:33.412Z</updated>
+        <updated>2023-11-07T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://mikuorz.github.io/2023/09/26/%E7%94%B5%E8%A7%86%E5%8A%A8%E7%94%BB%E5%88%B6%E4%BD%9C%E6%88%90%E6%9C%AC%E7%BB%86%E7%9B%AE/</id>
+        <id>https://mikuorz.github.io/posts/15498/</id>
         <title>电视动画制作成本细目 TV、OVA 日本/海外</title>
-        <link rel="alternate" href="https://mikuorz.github.io/2023/09/26/%E7%94%B5%E8%A7%86%E5%8A%A8%E7%94%BB%E5%88%B6%E4%BD%9C%E6%88%90%E6%9C%AC%E7%BB%86%E7%9B%AE/"/>
+        <link rel="alternate" href="https://mikuorz.github.io/posts/15498/"/>
         <content type="html">&lt;h2 id=&#34;电视动画制作成本细目-TV、OVA-日本-海外&#34;&gt;&lt;a href=&#34;#电视动画制作成本细目-TV、OVA-日本-海外&#34; class=&#34;headerlink&#34; title=&#34;电视动画制作成本细目 TV、OVA 日本&amp;#x2F;海外&#34;&gt;&lt;/a&gt;电视动画制作成本细目 TV、OVA 日本&amp;#x2F;海外&lt;/h2&gt;&lt;hr&gt;
 &lt;h4 id=&#34;TV动画、OVA的制作费用&#34;&gt;&lt;a href=&#34;#TV动画、OVA的制作费用&#34; class=&#34;headerlink&#34; title=&#34;TV动画、OVA的制作费用&#34;&gt;&lt;/a&gt;TV动画、OVA的制作费用&lt;/h4&gt;&lt;p&gt;1980年代至1990年代中期的电视动画：每集制作费约为700万至800万日元&lt;br&gt;2000年代的电视动画：每集制作费约为1000万至1300万日元&lt;br&gt;2010年代的电视动画：每集制作费约为1150万至1500万日元&lt;br&gt;2000年代的OVA（原声动画，不以电视播放或影院放映为前提，仅销售媒体作品）的制作费约为2000万至3000万日元。  &lt;/p&gt;
 &lt;h6 id=&#34;出处：日経ビジネス-2007-2-2&#34;&gt;&lt;a href=&#34;#出处：日経ビジネス-2007-2-2&#34; class=&#34;headerlink&#34; title=&#34;出处：日経ビジネス 2007.2.2&#34;&gt;&lt;/a&gt;出处：日経ビジネス 2007.2.2&lt;/h6&gt;&lt;p&gt;&lt;a href=&#34;http://business.nikkeibp.co.jp/article/manage/20070129/117879/&#34;&gt;http://business.nikkeibp.co.jp/article/manage/20070129/117879/&lt;/a&gt;  &lt;/p&gt;
@@ -117,9 +123,10 @@
 &lt;p&gt;小計　1008.7万円&lt;br&gt;制作管理費　135.84万円 ※基準は小計の12%、1,210,431？&lt;br&gt;合計　1144.5万円  &lt;/p&gt;
 &lt;p&gt;粗利益　255.46万円 ※目標額は見積り予算額の20%の28万円(差額 -245,323)&lt;br&gt;見積り予算額　1400万円  &lt;/p&gt;
 &lt;p&gt;出处： アニメの予算・制作費を語るスレ&lt;br&gt;&lt;a href=&#34;http://anime2.2ch.net/test/read.cgi/iga/1125409064/&#34;&gt;http://anime2.2ch.net/test/read.cgi/iga/1125409064/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://count.getloli.com/@Mikuorz-15498?theme=rule34&#34; alt=&#34;:name&#34;&gt;&lt;/p&gt;
 </content>
         <category term="动画" />
         <category term="动画制作" />
-        <updated>2023-09-26T06:13:07.898Z</updated>
+        <updated>2023-09-25T16:00:00.000Z</updated>
     </entry>
 </feed>
