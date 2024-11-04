@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://mikuorz.github.io</id>
+    <title>Animelife • Posts by &#34;动画制作&#34; category</title>
+    <link href="https://mikuorz.github.io" />
+    <updated>2024-11-04T16:00:00.000Z</updated>
+    <category term="动画" />
+    <category term="动画制作" />
+    <category term="3DCG" />
+    <category term="It’s MyGO" />
+    <category term="动画产业" />
+    <category term="动画授权" />
+    <category term="观后感" />
+    <category term="动画讨论" />
+    <category term="动画工具" />
+    <category term="书签" />
+    <category term="动画消费" />
+    <category term="时间表" />
+    <entry>
+        <id>https://mikuorz.github.io/posts/12/</id>
+        <title>动画时间表</title>
+        <link rel="alternate" href="https://mikuorz.github.io/posts/12/"/>
+        <content type="html">&lt;h1 id=&#34;介绍&#34;&gt;&lt;a href=&#34;#介绍&#34; class=&#34;headerlink&#34; title=&#34;介绍&#34;&gt;&lt;/a&gt;介绍&lt;/h1&gt;&lt;p&gt;动画时间表，也被称为考勤表「タイムシート」。它是一种重要的指示书，详细记录了随着时间推进的戏剧表演安排、台词的时间节点，还有拍摄中的镜头运用以及特殊效果的指定等内容。在动画制作过程中，它起着关键的基础作用。制作人员以时间表为依据，逐步制作中间画，最终完成一个个动画片段。简单来讲，动画时间表是用于传达动画制作中从上一道工序到下一道工序重要信息的表格，是动画制作不可或缺的关键工具。&lt;/p&gt;
+&lt;h1 id=&#34;基本格式&#34;&gt;&lt;a href=&#34;#基本格式&#34; class=&#34;headerlink&#34; title=&#34;基本格式&#34;&gt;&lt;/a&gt;基本格式&lt;/h1&gt;&lt;p&gt;动画时间表通常是以表格形式呈现。表格一般有横向和纵向的划分，方便对不同的信息类别进行记录和展示。&lt;br&gt;它可能会有作品的标题（タイトル），剪切的位置（カット），剪切的时长（タイム），表格名字（名前），表格页数（ページ），备注等信息。表格的纵方向代表时间轴，用于记录在哪个时间点插入什么样的画面、插入多少画面以及添加何种效果。一个格子就相当于动画的一帧，24 帧组成一秒的动画。&lt;br&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/04/iyxd8DKb75rWEUa.webp&#34; alt=&#34;dougasheet01.webp&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;内容构成&#34;&gt;&lt;a href=&#34;#内容构成&#34; class=&#34;headerlink&#34; title=&#34;内容构成&#34;&gt;&lt;/a&gt;内容构成&lt;/h1&gt;&lt;h2 id=&#34;时间信息&#34;&gt;&lt;a href=&#34;#时间信息&#34; class=&#34;headerlink&#34; title=&#34;时间信息&#34;&gt;&lt;/a&gt;时间信息&lt;/h2&gt;&lt;p&gt;开始时间和结束时间：精确记录每个动作、镜头或者场景在整个动画中的起始和终止时刻。这对于把握动画的节奏和整体时长非常重要。比如一个简单的人物走路镜头，开始时间可能是 0:00，结束时间是 0:05，代表这个镜头持续 5 秒钟。&lt;br&gt;关键帧时间点：在动画制作中，关键帧是定义动作变化的关键画面。时间表会记录关键帧出现的时间，例如一个角色跳跃的动作，起跳的关键帧时间为 0:01，达到最高点的关键帧时间为 0:03，落地的关键帧时间为 0:05。&lt;/p&gt;
+&lt;h2 id=&#34;口型动作&#34;&gt;&lt;a href=&#34;#口型动作&#34; class=&#34;headerlink&#34; title=&#34;口型动作&#34;&gt;&lt;/a&gt;口型动作&lt;/h2&gt;&lt;p&gt;它会精确地记录角色说话时嘴唇动作的起始和结束时间，与台词的时间严格匹配。例如，一个角色说出 “我爱动画” 这句话，时间表中会标明 “我爱” 这个发音对应的口型动作从 0:00 - 0:02，“动画” 的口型动作从 0:02 - 0:04，这样细致的时间划分可以确保口型和声音同步。除了时间，还会记录口型的具体形态变化。动画制作人员需要根据不同的发音来设计口型。&lt;/p&gt;
+&lt;h2 id=&#34;台词信息&#34;&gt;&lt;a href=&#34;#台词信息&#34; class=&#34;headerlink&#34; title=&#34;台词信息&#34;&gt;&lt;/a&gt;台词信息&lt;/h2&gt;&lt;p&gt;角色台词及时间：记录每个角色说话的内容和对应的时间。比如 “角色 B 在 0:02 - 0:04 说‘你好，今天过得怎么样？’”，台词的时间安排要与角色的口型动画制作相匹配。&lt;/p&gt;
+&lt;h2 id=&#34;镜头信息&#34;&gt;&lt;a href=&#34;#镜头信息&#34; class=&#34;headerlink&#34; title=&#34;镜头信息&#34;&gt;&lt;/a&gt;镜头信息&lt;/h2&gt;&lt;p&gt;镜头运动方式：如推（Truck - in）、拉（Truck - out）、摇（Pan）、移（Dolly）等镜头运动方式都会记录在时间表中，并且会注明运动的起始时间和结束时间以及运动的方向和速度等细节。例如 “在 0:03 - 0:05，镜头以每秒 10 厘米的速度向右平移（Dolly Right）”。&lt;br&gt;镜头景别：包括全景（Full Shot）、中景（Medium Shot）、近景（Close - up）等不同的景别切换时间。例如 “0:00 - 0:02 是全景展示场景，0:03 切换为角色 A 的近景”。&lt;/p&gt;
+&lt;h2 id=&#34;特殊效果信息&#34;&gt;&lt;a href=&#34;#特殊效果信息&#34; class=&#34;headerlink&#34; title=&#34;特殊效果信息&#34;&gt;&lt;/a&gt;特殊效果信息&lt;/h2&gt;&lt;p&gt;光影效果：像灯光的变化，例如 “在 0:04 时，场景中的主光源亮度从 80% 提高到 100%，营造紧张氛围”。&lt;br&gt;特效触发时间：对于一些动画特效，如魔法技能释放的光效、爆炸效果等的触发时间和持续时间。比如 “在 0:06 时触发魔法阵特效，持续 1 秒钟”。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/05/5HSVtEABKCXNurL.webp&#34; alt=&#34;dougasheet02.webp&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;附录&#34;&gt;&lt;a href=&#34;#附录&#34; class=&#34;headerlink&#34; title=&#34;附录&#34;&gt;&lt;/a&gt;附录&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://s2.loli.net/2024/11/05/cdLZro3k5hx81Tm.png&#34;&gt;絵コンテ用紙&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://s2.loli.net/2024/11/05/HYRDlk9XPCIi3pB.png&#34;&gt;タイムシート&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://s2.loli.net/2024/11/05/JB3cZHpbKOW7hi8.png&#34;&gt;合成伝票&lt;/a&gt;  &lt;/p&gt;
+&lt;h1 id=&#34;参考&#34;&gt;&lt;a href=&#34;#参考&#34; class=&#34;headerlink&#34; title=&#34;参考&#34;&gt;&lt;/a&gt;参考&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://saraemi.com/151016douga/&#34;&gt;アニメーター「動画マン」の仕事の流れを紹介&lt;/a&gt;, さらえみ, 2015-10-16&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.listeningside.net/a_side03.html&#34;&gt;タイムシートについて&lt;/a&gt;, 田中 行人&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://kotoluna-08.hatenablog.com/entry/2022/07/05/152512&#34;&gt;アニメ制作、タイムシートって？, ことるなの息抜き&lt;/a&gt;, 2022-07-05&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.toonboom.com/ja/%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%B7%E3%83%BC%E3%83%88%E3%81%AF-%E3%82%A2%E3%83%8B%E3%83%A1%E5%88%B6%E4%BD%9C%E3%81%AE%E6%8C%87%E7%A4%BA%E6%9B%B8%E9%87%8D%E8%A6%81%E3%81%AA%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB%E3%81%A7%E3%81%99#:~:text=%E9%87%8D%E8%A6%81%E3%81%AA%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB%E3%81%A7%E3%81%99%EF%BC%81,-%E3%83%9D%E3%82%B9%E3%83%88%E3%81%99%E3%82%8B%EF%BC%9A%202018&amp;text=%E3%82%A2%E3%83%8B%E3%83%A1%E6%A5%AD%E7%95%8C%E3%81%A7%E3%80%8C%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%B7%E3%83%BC%E3%83%88,%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%B7%E3%83%BC%E3%83%88%E3%81%A8%E5%91%BC%E3%81%B3%E3%81%BE%E3%81%99%E3%80%82&#34;&gt;タイムシートは、アニメ制作の指示書！重要なコミュニケーションツールです！&lt;/a&gt;, とも, 2018-10-03&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/sZs_MyYnYfE&#34;&gt;【解説動画】タイムシート入門編&lt;/a&gt;, @みんクリ, 2021-09-29&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/PQbkehjeWtQ&#34;&gt;【２分解説】③ タイムシートとは&lt;/a&gt;, @siroani, 2020-06-20&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://count.getloli.com/@Mikuorz-12?theme=random&#34; alt=&#34;:name&#34;&gt;&lt;/p&gt;
+</content>
+        <category term="动画" />
+        <category term="动画制作" />
+        <category term="时间表" />
+        <updated>2024-11-04T16:00:00.000Z</updated>
+    </entry>
+</feed>
