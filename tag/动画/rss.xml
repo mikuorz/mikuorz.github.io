@@ -5,20 +5,53 @@
         <link>https://mikuorz.github.io</link>
         <description></description>
         <language>en</language>
-        <pubDate>Tue, 05 Nov 2024 00:00:00 +0800</pubDate>
-        <lastBuildDate>Tue, 05 Nov 2024 00:00:00 +0800</lastBuildDate>
+        <pubDate>Thu, 20 Feb 2025 00:00:00 +0800</pubDate>
+        <lastBuildDate>Thu, 20 Feb 2025 00:00:00 +0800</lastBuildDate>
         <category>动画</category>
+        <category>动画产业</category>
         <category>动画制作</category>
         <category>3DCG</category>
         <category>It’s MyGO</category>
-        <category>动画产业</category>
-        <category>动画授权</category>
-        <category>观后感</category>
         <category>动画讨论</category>
-        <category>动画工具</category>
-        <category>书签</category>
+        <category>动画授权</category>
         <category>动画消费</category>
         <category>时间表</category>
+        <category>动画工具</category>
+        <category>书签</category>
+        <category>观后感</category>
+        <category>动画技术</category>
+        <category>摄像机投影</category>
+        <item>
+            <guid isPermalink="true">https://mikuorz.github.io/posts/13/</guid>
+            <title>摄像机投影：将2D与3D融合</title>
+            <link>https://mikuorz.github.io/posts/13/</link>
+            <category>动画</category>
+            <category>动画技术</category>
+            <category>摄像机投影</category>
+            <pubDate>Thu, 20 Feb 2025 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;在动画领域，将不同技术融合在一起可以创造出令人惊叹的视觉效果。其中一种技术就是&lt;strong&gt;摄像机投影&lt;/strong&gt;，它将2D手绘艺术的魅力与3D相机移动的动态深度相结合。在本篇博客文章中，我们将深入探讨这种技术的工作原理及其在动画中的应用。&lt;br&gt;&lt;img src=&#34;https://s2.loli.net/2025/02/20/Sw9DgjJ2epyWfna.png&#34; alt=&#34;p2.png&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://s2.loli.net/2025/02/20/SwPaDGxkyuQgfTW.png&#34; alt=&#34;p1.png&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;什么是摄像机投影？&#34;&gt;&lt;a href=&#34;#什么是摄像机投影？&#34; class=&#34;headerlink&#34; title=&#34;什么是摄像机投影？&#34;&gt;&lt;/a&gt;什么是摄像机投影？&lt;/h2&gt;&lt;p&gt;摄像机投影，也称为投影映射，是一种将2D图像投影到3D几何形状上的过程。这使动画师能够在有限的视角内创造出深度和移动的错觉，同时保持手绘风格。这种技术特别适用于自然环境的场景，在这些场景中，微妙的视角变化可以增强视觉吸引力，而不会失去原始的艺术风格。&lt;/p&gt;
+&lt;h2 id=&#34;摄像机投影的优势&#34;&gt;&lt;a href=&#34;#摄像机投影的优势&#34; class=&#34;headerlink&#34; title=&#34;摄像机投影的优势&#34;&gt;&lt;/a&gt;摄像机投影的优势&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;无需完整3D即可实现深度效果&lt;/strong&gt;：通过将2D图像投影到3D模型上，动画师可以在不完全依赖3D工作流程的情况下实现深度感。这对于主要使用2D动画但希望增加一些动态效果的项目来说是理想的选择。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;风格控制&lt;/strong&gt;：与传统的 3D 渲染方式不同，摄像机投影技术赋予了动画师更大的艺术风格控制权。他们可以根据自己的创意目标，灵活调整风格化的程度，确保最终效果与预期愿景完美契合。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;增强视觉效果&lt;/strong&gt;：这种技术可以创造出有趣的视觉效果，例如复杂的相机移动和视角变化，这些效果仅靠2D动画是很难实现的。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;缺点&#34;&gt;&lt;a href=&#34;#缺点&#34; class=&#34;headerlink&#34; title=&#34;缺点&#34;&gt;&lt;/a&gt;缺点&lt;/h2&gt;&lt;p&gt;尽管摄像机投影有许多优势，但它也并非完美。例如，将2D图像投影到3D几何形状上有时会导致变形，特别是在处理复杂场景或大幅度相机移动时。此外，该过程需要仔细分层原始绘画，以确保投影看起来无缝且自然。&lt;/p&gt;
+&lt;h2 id=&#34;实际应用&#34;&gt;&lt;a href=&#34;#实际应用&#34; class=&#34;headerlink&#34; title=&#34;实际应用&#34;&gt;&lt;/a&gt;实际应用&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;自然场景&lt;/strong&gt;：摄像机投影在动画自然环境（如森林或风景）中特别有效。轻微的相机移动可以增加真实感和沉浸感，而不会破坏手绘风格。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;有限的相机移动&lt;/strong&gt;：对于只需要轻微相机调整的场景，摄像机投影是一个强大的工具。它允许在不进行广泛3D建模的情况下进行微妙的视角变化。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;艺术灵活性&lt;/strong&gt;：通过结合2D艺术和3D渲染技术，动画师可以实现独特的外观，使其脱颖而出。这种传统与现代方法的结合为动画提供了全新的可能性。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;在业界中最常使用这种技术的公司就是Fortiche，他们从&lt;a href=&#34;https://www.youtube.com/watch?v=0nlJuwO0GDs&#34;&gt;Get Jinxed&lt;/a&gt;开始为拳头制作MV，包括后来的&lt;a href=&#34;https://www.youtube.com/watch?v=UOxkGD8qRB4&#34;&gt;Pop&amp;#x2F;Stars&lt;/a&gt;，最为人熟知的当属Arcane，在这部动画中，Fortiche 广泛运用了摄像机投影技术,将背景图像投影而非使用3D模型，所以他们凭借摄像机投影节省了大量面数，并且在动画制作过程中能够进行实时渲染。&lt;/p&gt;
+&lt;h2 id=&#34;参考&#34;&gt;&lt;a href=&#34;#参考&#34; class=&#34;headerlink&#34; title=&#34;参考&#34;&gt;&lt;/a&gt;参考&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=v0U28HxbzmQ&#34;&gt;Camera Mapping - 3D Cameras for 2D Animation&lt;/a&gt;, Olof Storm, 2021-05-20  &lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://mikuorz.github.io/posts/12/</guid>
             <title>动画时间表</title>
@@ -130,8 +163,8 @@
             <title>以实际例子解释动画制作</title>
             <link>https://mikuorz.github.io/posts/4553/</link>
             <category>动画</category>
-            <category>动画制作</category>
             <category>动画产业</category>
+            <category>动画制作</category>
             <pubDate>Wed, 08 Nov 2023 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;魔法少女小圆op字幕&#34;&gt;&lt;a href=&#34;#魔法少女小圆op字幕&#34; class=&#34;headerlink&#34; title=&#34;魔法少女小圆op字幕&#34;&gt;&lt;/a&gt;魔法少女小圆op字幕&lt;/h2&gt;&lt;p&gt;原作：Magica Quartet（新房昭之、虚渊玄、苍树梅、SHAFT）&lt;br&gt;企划：夏目公一朗、孝寿尚志、峰岸卓生、でじたろう、太布尚弘、久保田光俊、竹田青滋&lt;br&gt;监督：新房昭之&lt;br&gt;系列监督：宫本幸裕&lt;br&gt;系列构成、剧本：虚渊玄（Nitro+）&lt;br&gt;角色原案：苍树梅&lt;br&gt;人物设计：岸田隆宏&lt;br&gt;总作画监督：谷口淳一郎、高桥美香&lt;br&gt;动作监督：阿部望、神谷智大&lt;br&gt;异空间设计：剧团狗咖哩&lt;br&gt;构图设计：牧孝雄&lt;br&gt;美术监督：稻叶邦彦、金子雄司、内藤健&lt;br&gt;美术设定：大原盛仁&lt;br&gt;色彩设计：日比野仁、泷泽泉&lt;br&gt;视觉效果：酒井基&lt;br&gt;摄影监督：江藤慎一郎&lt;br&gt;编集：松原理惠&lt;br&gt;音响监督：鹤冈阳太&lt;br&gt;音响制作：乐音舍&lt;br&gt;音乐：梶浦由记（SME Records）&lt;br&gt;音乐制作：Aniplex&lt;br&gt;制片人：岩上敦宏、加藤昱夫、细川修、土居由直、金庭こず惠、丸山博雄&lt;br&gt;动画制片人：岩城忠雄&lt;br&gt;动画制作：SHAFT&lt;br&gt;制作：Madoka Partners（Aniplex、芳文社、博报堂DY媒体伙伴、Nitro+、Movic、SHAFT）、每日放送  &lt;/p&gt;
 &lt;p&gt;一个完整的OP字幕大致是这样……&lt;/p&gt;
